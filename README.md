@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Sean
 
-<!--
-**codewith-sean/codewith-sean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student
 
-Here are some ideas to get you started:
+Skills:
+- Python
+- Java
+- 3D Modelling in Blender
+- Web Designing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- NGO Data Dashboard
+- Smart Inventory System
+- Student Management System
+- Personal Finance Manager
+
+Contact:
+chizhwendesean@gmail.com
